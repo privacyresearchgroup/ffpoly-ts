@@ -15,6 +15,6 @@
       "statements": 95
     }
   },
-  "coveragePathIgnorePatterns": ["node_modules", "__test__"],
+  "coveragePathIgnorePatterns": ["node_modules", "__test__", "bigint-integers"],
   "verbose": true
 }
